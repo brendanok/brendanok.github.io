@@ -1,3 +1,13 @@
+pre {font-family: Consolas,monospace;
+    color: black;
+    font-size: 20px;
+    vertical-align: middle;
+    text-align: left;
+    margin: auto;
+    max-width: 500px;
+    font-size: 20px;
+}
+
 body {
   background-color: #FFFFFF;
   padding: 10%;
