@@ -6,7 +6,7 @@ body {
 h1 {
   color: Black ;
   text-align: center;
-  font-family: Consolas;
+  font-family: Consolas,monospace;
   font-size: 25px;
   vertical-align: middle;
 }
@@ -14,7 +14,7 @@ h1 {
 p {
   color: black;
   text-align: center;
-  font-family: Consolas;
+  font-family: Consolas,monospace;
   font-size: 20px;
   vertical-align: middle;
 }
@@ -22,7 +22,7 @@ p {
 a {
   color: black;
   text-align: center;
-  font-family: Consolas;
+  font-family: Consolas,monospace;
   vertical-align: middle;
   text-decoration: none;
   font-size: 17px;
