@@ -1,0 +1,35 @@
+body {
+  background-color: #FFFFFF;
+  padding-top: 15%
+}
+
+h1 {
+  color: Black ;
+  text-align: center;
+  font-family: Consolas;
+  font-size: 25px;
+  vertical-align: middle;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-family: Consolas;
+  font-size: 20px;
+  vertical-align: middle;
+}
+
+a {
+  color: black;
+  text-align: center;
+  font-family: Consolas;
+  vertical-align: middle;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+a:hover {
+  background-color: #FC9BB3;
+  color: white;
+  text-decoration: none;
+}

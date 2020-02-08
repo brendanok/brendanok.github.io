@@ -1,0 +1,43 @@
+body {
+  background-color: #FFFFFF;
+  padding-top: 10%;
+}
+
+h1 {
+  color: black ;
+  text-align: left;
+  font-family: Consolas;
+  font-size: 25px;
+  vertical-align: middle;
+  max-width: 500px;
+  margin: auto;
+}
+
+p {
+  color: black;
+  font-family: Consolas;
+  font-size: 20px;
+  vertical-align: middle;
+  text-align: left;
+  margin: auto;
+  max-width: 500px;
+  font-size: 20px;
+}
+
+
+a {
+  color: grey;
+  text-align: left;
+  text-decoration-style: dotted;
+  font-size: 20px;
+}
+
+a:hover {
+  background-color: #FC9BB3;
+  color: white;
+}
+
+.goback {
+  font-size: 17px;
+  font-family: Consolas;
+}
