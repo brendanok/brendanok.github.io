@@ -3,6 +3,11 @@ body {
   padding: 10%;
 }
 
+}
+.links{
+  width: 46px
+}
+
 h1 {
   color: black ;
   text-align: left;
