@@ -3,10 +3,22 @@ body {
   padding: 10%;
 }
 
+
+.links {
+  opacity: 0.9;
+  width: 25px;
+  height: 25px;
 }
-.links{
-  width: 46px;
-  height: 46px;
+
+.links:hover {
+  color: white;
+  opacity: 0.5;
+  background-image: url('twitterbird_hover.png');
+}
+
+.social:hover {
+  background-color: transparent;
+  text-decoration-style: unset;
 }
 
 h1 {
@@ -34,13 +46,18 @@ p {
 a {
   color: grey;
   text-align: left;
-  text-decoration-style: dotted;
+  text-decoration-style: dotted;`````````
   font-size: 20px;
 }
 
 a:hover {
   background-color: #FC9BB3;
   color: white;
+}
+
+.social{
+  opacity: 0.8;
+  text-decoration-style: unset;
 }
 
 .goback {
