@@ -24,7 +24,7 @@ body {
 h1 {
   color: black ;
   text-align: left;
-  font-family: courier new,monospace;
+  font-family: Consolas,monospace;
   font-size: 25px;
   vertical-align: middle;
   max-width: 500px;
@@ -33,7 +33,7 @@ h1 {
 
 p {
   color: black;
-  font-family: courier new,monospace;
+  font-family: Consolas,monospace;
   font-size: 20px;
   vertical-align: middle;
   text-align: left;
@@ -62,5 +62,5 @@ a:hover {
 
 .goback {
   font-size: 17px;
-  font-family: courier new,monospace;
+  font-family: Consolas,monospace;
 }
