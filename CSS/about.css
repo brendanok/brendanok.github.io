@@ -49,6 +49,7 @@ a {
 a:hover {
   background-color: #FC9BB3;
   color: white;
+  text-decoration: none;
 }
 
 .social{
