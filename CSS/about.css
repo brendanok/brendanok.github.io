@@ -22,18 +22,17 @@ h1 {
   font-family: Consolas,monospace;
   font-size: 25px;
   vertical-align: middle;
-  max-width: 450px;
+  max-width: 400px;
   margin: auto;
 }
 
 p {
   color: black;
   font-family: Consolas,monospace;
-  font-size: 20px;
   vertical-align: middle;
   text-align: left;
   margin: auto;
-  max-width: 450px;
+  max-width: 400px;
   font-size: 15px;
 }
 
