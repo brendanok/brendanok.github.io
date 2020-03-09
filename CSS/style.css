@@ -17,6 +17,7 @@ p {
   font-family: Consolas,monospace;
   font-size: 17px;
   vertical-align: middle;
+  padding-top: 1vh;
 }
 
 a {
@@ -30,7 +31,6 @@ a {
 }
 
 a:hover {
-  background-color: #FC9BB3;
-  color: white;
+  color: #FC9BB3;
   text-decoration: none;
 }
