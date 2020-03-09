@@ -41,8 +41,9 @@ p {
 a {
   color: grey;
   text-align: left;
-  text-decoration-style: dotted;`````````
   font-size: 17px;
+  border-bottom: 1px dashed;
+  text-decoration: none;
 }
 
 a:hover {
