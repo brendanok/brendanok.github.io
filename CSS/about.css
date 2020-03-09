@@ -13,8 +13,10 @@ body {
 
 
 .social:hover {
+  opacity: 0.5;
   background-color: transparent;
   text-decoration-style: unset;
+  border-bottom: none;
 }
 
 h1 {
@@ -54,7 +56,7 @@ a:hover {
 
 .social{
   opacity: 0.8;
-  text-decoration-style: unset;
+  border-bottom: none;
 }
 
 .goback {
