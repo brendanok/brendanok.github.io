@@ -22,8 +22,9 @@ body {
 h1 {
   color: black ;
   text-align: left;
-  font-family: Consolas,monospace;
+  font-family: Courier New,monospace;
   font-size: 25px;
+  font-stretch: semi-condensed;
   vertical-align: middle;
   max-width: 500px;
   margin: auto;
@@ -31,7 +32,8 @@ h1 {
 
 p {
   color: black;
-  font-family: Consolas,monospace;
+  font-family: Courier New,monospace;
+  font-stretch: semi-condensed;
   vertical-align: middle;
   text-align: left;
   margin: auto;
@@ -43,6 +45,7 @@ p {
 a {
   color: grey;
   text-align: left;
+  font-stretch: semi-condensed;
   font-size: 17px;
   border-bottom: 1px dashed;
   text-decoration: none;
@@ -60,5 +63,6 @@ a:hover {
 
 .goback {
   font-size: 15px;
-  font-family: Consolas,monospace;
+  font-family: Courier New,monospace;
+  font-stretch: semi-condensed;
 }
