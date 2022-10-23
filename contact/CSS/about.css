@@ -1,0 +1,64 @@
+body {
+  background-color: #FFFFFF;
+  padding: 7%;
+  padding-top: 10%
+}
+
+
+.links {
+  opacity: 0.9;
+  width: 25px;
+  height: 25px;
+}
+
+
+.social:hover {
+  opacity: 0.5;
+  background-color: transparent;
+  text-decoration-style: unset;
+  border-bottom: none;
+}
+
+h1 {
+  color: black ;
+  text-align: left;
+  font-family: Consolas,monospace;
+  font-size: 25px;
+  vertical-align: middle;
+  max-width: 500px;
+  margin: auto;
+}
+
+p {
+  color: black;
+  font-family: Consolas,monospace;
+  vertical-align: middle;
+  text-align: left;
+  margin: auto;
+  max-width: 500px;
+  font-size: 17px;
+}
+
+
+a {
+  color: grey;
+  text-align: left;
+  font-size: 17px;
+  border-bottom: 1px dashed;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FC9BB3;
+  text-decoration: none;
+}
+
+.social{
+  opacity: 0.8;
+  border-bottom: none;
+}
+
+.goback {
+  font-size: 15px;
+  font-family: Consolas,monospace;
+}
